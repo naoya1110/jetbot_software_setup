@@ -47,9 +47,9 @@ YouTube: https://youtu.be/qC0zNpWyClw
 ## Remote Access to JetBot with Web Browser
 1. Check the IP address shown on the OLED display.
 1. Open a web browser and navigate to `http://<jetbot_ip_address>:8888`
-1. Log in to the jupyter lab with the password `jetbot`
+1. Log in to Jupyter Lab with the password `jetbot`
 
-## Additional Setups
+## SSH Setup
 1. Open a terminal from Launcher.
 1. Update apt package list.
     ```
@@ -70,7 +70,3 @@ YouTube: https://youtu.be/qC0zNpWyClw
     ```
     $ sudo shutdown now
     ```
-
-
-
-
