@@ -36,7 +36,7 @@ YouTube: https://youtu.be/qC0zNpWyClw
     ```
 
 ## Reboot JetBot without Monitor and Keyboard
-1. Shutdown the JetBot using the following command.
+1. Shutdown the JetBot.
     ```
     $ sudo shutdown now
     ```
@@ -51,22 +51,22 @@ YouTube: https://youtu.be/qC0zNpWyClw
 
 ## Additional Setups
 1. Open a terminal from Launcher.
-1. Update apt package list with using the command.
+1. Update apt package list.
     ```
     $ apt update
     ```
-1. Install SSH using the following command.
+1. Install SSH.
     ```
     $ apt install ssh
     ```
 
 ## Shutdown JetBot from Web Browser
 1. Open a terminal
-1. Log in to the JetBot with SSH using the following command.
+1. Log in to the JetBot with SSH.
     ```
     $ ssh jetbot@0.0.0.0
     ```
-1. Shutdown the JetBot using the following command.
+1. Shutdown the JetBot.
     ```
     $ sudo shutdown now
     ```
