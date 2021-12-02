@@ -6,12 +6,12 @@ YouTube: https://youtu.be/qC0zNpWyClw
 
 
 ## Get balenaEtcher
-1. visit https://www.balena.io/etcher/
-1. download and install balenaEtcher application to your PC.
+1. Visit https://www.balena.io/etcher/
+1. Download and install balenaEtcher application to your PC.
 
 ## Get JetBot SD Card Image
-1. visit https://jetbot.org/master/software_setup/sd_card.html
-1. download [SD card image for Jetson Nano 4GB](https://drive.google.com/file/d/1o08RPDRZuDloP_o76tCoSngvq1CVuCDh/view?usp=sharing) to your PC
+1. Visit https://jetbot.org/master/software_setup/sd_card.html
+1. Download [SD card image for Jetson Nano 4GB](https://drive.google.com/file/d/1o08RPDRZuDloP_o76tCoSngvq1CVuCDh/view?usp=sharing) to your PC
 
 ## Write JetBot Image on MicroSD Card
 1. Insert a microSD card into your PC.
