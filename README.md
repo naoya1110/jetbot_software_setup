@@ -51,7 +51,7 @@ YouTube: https://youtu.be/qC0zNpWyClw
 
 ## Additional Setups
 1. Open a terminal from Launcher.
-1. Update apt package list with using the following command.
+1. Update apt package list with using the command.
     ```
     $ apt update
     ```
